@@ -2,6 +2,7 @@
 int main()
 {
 	int a;
-	char c[]="chandler bing";
+	char c[]="chadler bing";
 	printf("%s",c);
+	printf("monica geller");
 }
