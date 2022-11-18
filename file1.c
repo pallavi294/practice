@@ -3,5 +3,5 @@ int main()
 {
 	int a;
 	char c;
-	printf("hello");
+	printf("monica geller");
 }
