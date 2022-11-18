@@ -2,6 +2,6 @@
 int main()
 {
 	int a;
-	char c;
-	printf("hello");
+	char c[]="chandler bing";
+	printf("%s",c);
 }
